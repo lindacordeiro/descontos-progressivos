@@ -1,7 +1,7 @@
 # Calculadora de descontos progressivos
 
-Este projeto em **Python** foi criado para desenvolver um programa que implemente um sistema de desconto progressivo para uma loja online. \
-O programa solicita o **valor total da compra** e realiza operações condicionais para calcular o desconto final dado ao cliente. \
+Este projeto em **Python** foi criado para desenvolver um programa que implemente um sistema de desconto progressivo para uma loja online. <br>
+O programa solicita o **valor total da compra** e realiza operações condicionais para calcular o desconto final dado ao cliente.<br>
 ## Condições:
 > Se o valor total da compra for **menor** do que **R$ 200,00**, o cliente recebe um desconto de **5%**.
 >
